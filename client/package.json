@@ -31,6 +31,6 @@
     "vue-cli-plugin-webpack-bundle-analyzer": "^4.0.0",
     "vue-template-compiler": "^2.7.16",
     "vuetify-loader": "^1.9.2",
-    "webpack": "^4.47.0"
+    "webpack": "^5.94.0"
   }
 }
